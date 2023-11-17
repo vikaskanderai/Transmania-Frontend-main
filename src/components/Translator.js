@@ -117,11 +117,11 @@ function Translator() {
           </div>
           <button onClick={translateText} className="translate-button">Translate</button>
         </div>
-        {translatedText && (
+        {/* {translatedText && (
           <div className="translated-text">
             <p>{translatedText}</p>
           </div>
-        )}
+        )} */}
         
       </form>
     </div>
